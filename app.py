@@ -1,8 +1,3 @@
-"""
-Step 2: FastAPI Application for ML Model Serving
-Model: RandomForestClassifier trained on Iris dataset
-"""
-
 import joblib
 import numpy as np
 from fastapi import FastAPI, HTTPException
